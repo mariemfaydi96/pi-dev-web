@@ -1,0 +1,15 @@
+challenge_homepage:
+    path:     /
+    defaults: { _controller: ChallengeBundle:Default:index }
+
+default_page:
+    path:     /page
+    defaults: { _controller: ChallengeBundle:Default:page }
+
+layout:
+    path:     /layout
+    defaults: { _controller: ChallengeBundle:Default:layout }
+
+challenge:
+    path:     /challenge
+    defaults: { _controller: ChallengeBundle:Default:challenge }

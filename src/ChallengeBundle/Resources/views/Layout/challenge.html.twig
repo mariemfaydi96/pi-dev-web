@@ -1,0 +1,42 @@
+{% extends 'base.html.twig' %}
+{% block content %}
+
+    <!-- appointment -->
+    <div class="appointment" id="appointment">
+        <div class="container-fluid  py-md-3">
+            <div class="row">
+                <div class="col-md-5 about-bottoml-agileits">
+                </div>
+                <div class="col-md-7 about-bottomr-agileits">
+                    <div class="appointment_head">
+                        <h3>Make A Challenge </h3>
+                    </div>
+                    <div class="form-agileits">
+                        <form action="#" method="post">
+                            <h6>Challenge information</h6>
+                            <input class="name" type="text" name="challenge" placeholder="nom du challenge" required="">
+                            <input type="text" name="description" placeholder="Description" required="">
+                            <input class="name" type="email" name="Email" placeholder="foulen@esprit.tn" required="">
+                            <input type="text" name="Phone" placeholder="Phone" required="">
+                            <div class="clearfix"> </div>
+                            <h6>Spécialité</h6>
+                            <select class="form-control name">
+                                <option>Web</option>
+                                <option>Mobile</option>
+                                <option>Réseaux</option>
+
+                            </select>
+                            <input  id="datepicker1" name="Text" type="text" value="" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'mm/dd/yyyy';}" placeholder="mm/dd/yyyy" required="">
+                            <div class="clearfix"> </div>
+
+                            <input type="submit" value="Submit">
+                        </form>
+                    </div>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+    <!-- //appointment -->
+
+{% endblock %}
