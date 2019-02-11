@@ -13,3 +13,18 @@ layout:
 challenge:
     path:     /challenge
     defaults: { _controller: ChallengeBundle:Default:challenge }
+create:
+    path:     /create
+    defaults: { _controller: ChallengeBundle:CrudChallenge:create }
+
+read:
+    path:     /read
+    defaults: { _controller: ChallengeBundle:CrudChallenge:read }
+
+update:
+    path:     /update
+    defaults: { _controller: ChallengeBundle:CrudChallenge:update }
+
+delete:
+    path:     /delete
+    defaults: { _controller: ChallengeBundle:CrudChallenge:delete }
