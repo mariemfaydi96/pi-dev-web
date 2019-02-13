@@ -2,150 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e5cb82-39da-4c95-8b89-f6c8d4378206" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/ChangePassword/change_password.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/ChangePassword/change_password_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Group/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Group/edit_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Group/list.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Group/list_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Group/new.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Group/new_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Group/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Group/show_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Profile/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Profile/edit_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Profile/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Profile/show_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Registration/check_email.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Registration/confirmed.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Registration/email.txt.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Registration/register.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Registration/register_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Resetting/check_email.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Resetting/email.txt.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Resetting/request.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Resetting/request_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Resetting/reset.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Resetting/reset_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Security/login.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/Security/login_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/views/layout.html.twig" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ChallengeBundle/Resources/views/Default/page_une.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/flaticon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/owl.theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/responsive2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/responsive_map.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/style_II.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/css/style_map.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/Flaticon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/Flaticon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/Flaticon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/Flaticond41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/fontawesome-webfont3e6e.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/fontawesome-webfont3e6e.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/fontawesome-webfont3e6e.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/fontawesome-webfont3e6e.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/fontawesome-webfont3e6e.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/fontawesome-webfontd41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/fonts/glyphicons-halflings-regulard41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_client_img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_single_client1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_single_client2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_single_client3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_single_client4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/blog_small_img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/car_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/car_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/car_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/career_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/career_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/career_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/client_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/client_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/client_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/client_slider_img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/condi_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/cp1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/cs1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_img1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_img2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_img3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_img4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_img5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_img6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_img7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/hiring_img8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/job_post_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/job_post_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/job_post_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/job_post_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/job_post_img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/mobail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/news_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/p1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/p2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/p4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/p5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/p6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/quote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/regis_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/regis_icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/register_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/resume_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/resume_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/resume_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/resume_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/resume_img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/resume_img6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/resume_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/spotlight_img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/tittle_img1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/tittle_img2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/tittle_img3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/content/web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/header/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/header/header_img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/header/header_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/header/loadinganimation.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/header/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/images/header/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/custom_II.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/custom_map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/jquery.countTo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/jquery.inview.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/jquery.magnific-popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/jquery.menu-aim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/jquery_min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/templates/js/owl.carousel.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" afterPath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ChallengeBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/ChallengeBundle/Controller/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ChallengeBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/ChallengeBundle/Resources/config/routing.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -161,11 +18,33 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChallengeBundle.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChallengeBundle.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/ChallengeBundle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="34">
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrudChallengeController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/Controller/CrudChallengeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#46#103#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -223,26 +102,6 @@
       </file>
       <file leaf-file-name="new.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/views/Group/new.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/Resources/config/routing.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routing_dev.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -516,29 +375,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ChallengeBundle" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pi-dev-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pi-dev-web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChallengeBundle" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
+              <option name="myItemId" value="AppBundle" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -557,6 +394,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pi-dev-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pi-dev-web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -699,7 +562,7 @@
       <workItem from="1549837442772" duration="4557000" />
       <workItem from="1549886119834" duration="7643000" />
       <workItem from="1549996072633" duration="11837000" />
-      <workItem from="1550044795056" duration="1115000" />
+      <workItem from="1550044795056" duration="1649000" />
     </task>
     <task id="LOCAL-00001" summary="projet">
       <created>1549627900682</created>
@@ -715,16 +578,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549899713668</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="projet">
+      <created>1550045942219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550045942219</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61915000" />
+    <option name="totallyTimeSpent" value="62449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20347957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20347957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -763,6 +634,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -792,6 +664,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -829,6 +702,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7939">
           <caret line="467" column="46" lean-forward="false" selection-start-line="467" selection-start-column="41" selection-end-line="467" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -900,13 +774,6 @@
     <entry file="file://$PROJECT_DIR$/web/templates/www.webstrot.com/html/jobpro/job_light/js/custom.js" />
     <entry file="file://$PROJECT_DIR$/web/templates/js/custom.js" />
     <entry file="file://$PROJECT_DIR$/web/templates/css/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/Controller/CrudChallengeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -954,13 +821,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,6 +872,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="423" column="0" lean-forward="false" selection-start-line="423" selection-start-column="0" selection-end-line="423" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,14 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/views/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1088,9 +942,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/ChallengeBundle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChallengeBundle/Controller/CrudChallengeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#103#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
