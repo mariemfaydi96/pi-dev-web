@@ -10,6 +10,14 @@ layout:
     path:     /layout
     defaults: { _controller: ChallengeBundle:Default:layout }
 
+back:
+    path:     /back
+    defaults: { _controller: ChallengeBundle:Default:layoutBack }
+
+registera:
+    path:     /registera
+    defaults: { _controller: ChallengeBundle:Default:register }
+
 challenge:
     path:     /challenge
     defaults: { _controller: ChallengeBundle:Default:challenge }

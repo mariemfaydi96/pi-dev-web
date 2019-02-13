@@ -18,9 +18,17 @@ class DefaultController extends Controller
     {
         return $this->render('@Challenge/Layout/layout.html.twig');
     }
+    public function layoutBackAction()
+    {
+        return $this->render('@Challenge/Layout/layoutBack.html.twig');
+    }
 
     public function challengeAction()
     {
         return $this->render('@Challenge/Layout/challenge.html.twig');
+    }
+    public function registerAction()
+    {
+        return $this->render('@Challenge/Layout/register.html.twig');
     }
 }
